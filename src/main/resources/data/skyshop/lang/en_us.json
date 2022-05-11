@@ -1,0 +1,9 @@
+{
+  "gui.shop.next": "Next Page",
+  "gui.shop.prev": "Previous Page",
+  "gui.shop.cost": "Buy Price: %s %s",
+  "gui.shop.replenish": "Sell Price: %s %s",
+  "gui.shop.title": "Shop",
+  "purchase.shop.success": "Purchase Success",
+  "purchase.shop.fail": "Purchase Failed"
+}
